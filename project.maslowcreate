@@ -10,11 +10,13 @@
         {
             "atomType": "Output",
             "name": "Output",
-            "x": 0.9869791666666666,
-            "y": 0.5,
+            "x": 0.6484375,
+            "y": 0.579861111111111,
             "ioValues": []
         }
     ],
     "allConnectors": [],
-    "fileTypeVersion": 1
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": "1.3"
 }
